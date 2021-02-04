@@ -25,7 +25,8 @@ Vamos utilizar neste projeto as seguintes [biblotecas](https://josecintra.com/bl
 
 ## Autor: Tony Ndefru Frachaha
 
-- [LinkedIn](https://www.linkedin.com/in/tony-ndefru-tony-f-ndefru-b5725b143/)
-- [Facebook_Page](https://www.facebook.com/Man-In-The-Mirror-100929294994555)
-- [Website: MITMS](https://www.maninthemirrors.com/)
-- [Amazon Books page](https://www.amazon.com/Tony-Ndefru-Frachaha/e/B07PJ1DP3D%3Fref=dbs_a_mng_rwt_scns_share)
+- [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/tony-ndefru-tony-f-ndefru-b5725b143/)
+- [<img alt="Facebook" src="https://img.shields.io/badge/Facebook%20-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/>](https://www.facebook.com/Man-In-The-Mirror-100929294994555)
+- [<img alt="Website MITMS" src="https://img.shields.io/badge/Website MITMS-000000?style=for-the-badge&logo=mitms&logoColor=white" />](https://www.maninthemirrors.com/)
+- [<img alt="Amazon Books Page" src="https://img.shields.io/badge/Amazon Books Page%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-com&logoColor=white"/>](https://www.amazon.com/Tony-Ndefru-Frachaha/e/B07PJ1DP3D%3Fref=dbs_a_mng_rwt_scns_share)
+
