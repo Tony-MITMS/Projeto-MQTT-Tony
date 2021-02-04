@@ -25,7 +25,7 @@ Vamos utilizar neste projeto as seguintes [biblotecas](https://josecintra.com/bl
 
 ## Autor: Tony Ndefru Frachaha
 
-- [LinkedIn](www.linkedin.com/in/tony-ndefru-tony-f-ndefru-b5725b143)
+- [LinkedIn](www.linkedin.com/in/tony-ndefru-tony-f-ndefru-b5725b143/)
 - [Facebook_Page](https://www.facebook.com/Man-In-The-Mirror-100929294994555)
 - [Website: MITMS](https://www.maninthemirrors.com/)
 - [Amazon Books page](https://www.amazon.com/Tony-Ndefru-Frachaha/e/B07PJ1DP3D%3Fref=dbs_a_mng_rwt_scns_share)
