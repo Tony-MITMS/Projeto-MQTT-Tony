@@ -30,3 +30,7 @@ Vamos utilizar neste projeto as seguintes [biblotecas](https://josecintra.com/bl
 - [<img alt="Website MITMS" src="https://img.shields.io/badge/Website MITMS-000000?style=for-the-badge&logo=mitms&logoColor=white" />](https://www.maninthemirrors.com/)
 - [<img alt="Amazon Books Page" src="https://img.shields.io/badge/Amazon Books Page%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-com&logoColor=white"/>](https://www.amazon.com/Tony-Ndefru-Frachaha/e/B07PJ1DP3D%3Fref=dbs_a_mng_rwt_scns_share)
 
+## Agradecimentos
+- Professor Lucas Jorge : Escola SENAI da Informatica - SP
+- Professor Marcos Vinicius : Escola SENAI da Informatica - SP
+- Professor Rodrigo Cirqueira : Escola SENAI da Informatica - SP
